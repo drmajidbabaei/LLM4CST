@@ -28,7 +28,7 @@
     - [*Software management*](#software-management)
 
 ## Intorduction
-This repository serves as a knowledge base for our research at "[Large Language Models for Continuous Software Testing: A Systematic Literature Review](https://arxiv.org/LINK)", encompassing a collection of scholarly articles, datasets, tutorials, and other pertinent materials related to the application of Large Language Models (LLMs) in Continuous Software Engineering (CST) in a DevOps framework. 
+This repository serves as a knowledge base for our research at "[Large Language Models for Continuous Software Testing in the Context of DevOps: A Systematic Literature Review](https://arxiv.org/LINK)", encompassing a collection of scholarly articles, datasets, tutorials, and other pertinent materials related to the application of Large Language Models (LLMs) in Continuous Software Engineering (CST) in a DevOps framework. 
 
 > abstract goes here!
 
